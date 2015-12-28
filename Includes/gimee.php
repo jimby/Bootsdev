@@ -1,0 +1,5 @@
+<?php
+
+$wid= getWID.php;
+        
+
